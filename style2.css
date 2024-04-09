@@ -4,7 +4,7 @@
     
 }
 .cabecalho{
-    background-color: #424e61;
+    background-color: #540099;
     display: flex;
     justify-content: space-around;
 }
@@ -19,15 +19,14 @@
 }
 
 .primeira-parte{
-    background-color: cornflowerblue;
-    
-}
-
-.primeira-parte{
-    background-image: linear-gradient(#424e61,rgb(103, 132, 192));
+    background-image: linear-gradient(#540099,rgb(176, 79, 255));
     height: 500px;
     padding: 100px;
     color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
 }
 
 .primeiro-paragrafo{
@@ -36,4 +35,12 @@
 
 .segundo-paragrafo{
     padding: 15px;
+}
+
+.educacao{
+    width: 25%;
+}
+
+.oi{
+    width: 25%;
 }
