@@ -31,6 +31,11 @@
 
 }
 
+.textos{
+    padding: 15px;
+    width: 35%;
+}
+
 .primeiro-paragrafo{
     padding: 15px;
 }
@@ -45,4 +50,9 @@
 
 .oi{
     width: 25%;
+}
+
+.titulo-estudantes{
+    display: flex;
+    justify-content: center;
 }
